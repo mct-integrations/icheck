@@ -1,3 +1,10 @@
 {
-
+  "name": "icheck",
+  "version": "1.0.2",
+  "description": "",
+  "main": "icheck.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mct-integrations/icheck.git"
+  },
 }
